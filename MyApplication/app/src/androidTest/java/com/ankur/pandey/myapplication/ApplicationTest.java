@@ -1,4 +1,4 @@
-package com.ankur.pandey.myapplication;
+package com.aditya.pandey.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
